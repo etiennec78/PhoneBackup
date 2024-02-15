@@ -1,0 +1,22 @@
+{
+	"backup_dir": "F:/images/En vrac/",
+	"class_dir": "F:/images/Classées",
+	"class_method": "copy",
+	"extension_list": [".jpg", ".png", ".mp4"],
+	"target_dirs": ["emulated/0/DCIM/", "emulated/0/Pictures", "emulated/0/Snapchat", "39F9-5E52/DCIM"],
+	"forbidden_dirs": ["emulated/0/DCIM/Screenshots", "emulated/0/DCIM/ScreenRecorder", "sdcard/DCIM/Screenshots"],
+	"home_coordinates": [48.9648856, 1.9542062],
+	"keep_registry": true,
+	"birthdays_services": ["Google"],
+	"important_dates": {
+		"01/01": "Nouvel an",
+		"06/01": "Épiphanie",
+		"02/02": "Chandeleur",
+		"14/02": "Saint-Valentin",
+		"21/07": "Fête de la musique",
+		"31/10": "Halloween",
+		"24/12": "Réveillon",
+		"25/12": "Noël",
+		"31/12": "Nouvel an"
+	}
+}
