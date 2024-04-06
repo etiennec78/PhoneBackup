@@ -6,3 +6,5 @@ Features :
 
 Current version made on Python
 I'm planning on starting a Rust version later
+
+Miro flowchart : https://miro.com/app/board/uXjVMx9iIpE=/
